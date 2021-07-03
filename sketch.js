@@ -18,9 +18,10 @@ function setup(){
     w = floor(width/rez);
     h = floor(height/rez);
     frameRate(5);
-
+//gbnjbugnbjgbgngjbngjbngjbnj
 }
 
 function draw(){
     background(backgroundImg);
 }
+
